@@ -76,6 +76,12 @@ mv ~/.config/nvim ~/.config/nvimbackup
 git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 nvim +PackerSync
 ```
+#### Clone the repo for Win
+
+```
+git clone https://github.com/AstroNvim/AstroNvim C:\Users\username\AppData\Local\nvim
+nvim +PackerSync
+```
 
 ## 📦 Basic Setup
 
